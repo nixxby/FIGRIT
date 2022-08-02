@@ -19,4 +19,4 @@ FIGRIT is a standard FIM built into Powershell using the SHA512 algorithm. It cr
 
 ## Screenshots
 
-![FIGRIT Screenshot1](https://github.com/nixxby/FIGRIT/blob/main/screenshot1.png?raw=true)
+![FIGRIT Screenshot1](https://github.com/nixxby/FIGRIT/blob/main/screenshot1.png)
