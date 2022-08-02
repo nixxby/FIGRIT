@@ -15,8 +15,3 @@ FIGRIT is a standard FIM built into Powershell using the SHA512 algorithm. It cr
 4. Run the /main.ps1 file by giving it's full address
 5. Choose option A at the first time to create a baseline
 6. Now that the baseline is created, any changes/deletions will be monitored in realtime.
-
-
-## Screenshots
-
-![FIGRIT Screenshot1](https://github.com/nixxby/FIGRIT/blob/main/screenshot1.png)
